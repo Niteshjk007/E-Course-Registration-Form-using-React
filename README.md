@@ -9,7 +9,6 @@ This project is a simple web application that provides a registration form for a
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
